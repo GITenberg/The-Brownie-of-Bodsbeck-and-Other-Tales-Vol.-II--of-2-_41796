@@ -1,0 +1,28 @@
+_repo: The-Brownie-of-Bodsbeck-and-Other-Tales-Vol.-II--of-2-_41796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hogg, James
+    alias: Craig, J. H.
+    birthdate: 1770
+    deathdate: 1835
+    gutenberg_agent_id: '860'
+    url: http://www.gutenberg.org/2009/agents/860
+    wikipedia: http://en.wikipedia.org/wiki/James_Hogg
+description: ''
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcc 'PR'
+title: The Brownie of Bodsbeck, and Other Tales (Vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/41796
